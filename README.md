@@ -10,6 +10,16 @@
 
 🚀 Em constante aprendizado e preparação para atuar no mercado de tecnologia.
 
+## 🔗 Sobre mim 💊💻
+
+Sou farmacêutico e estou construindo minha transição para a área de Tecnologia.
+
+Atualmente, sou Desenvolvedor de Sistemas em formação e pós-graduando em Engenharia Clínica, buscando unir minha experiência na área da Saúde aos conhecimentos de programação e desenvolvimento de software.
+
+Tenho estudado Python, HTML, CSS, Git, GitHub, VS Code e Lógica de Programação, com o objetivo de desenvolver soluções que conectem Saúde, Tecnologia e Software.
+
+🚀 Estou em constante aprendizado, construindo projetos e me preparando para atuar profissionalmente na área de tecnologia.
+
 ## 🔗 Me encontre por aqui
 
 📬 E-mails: fejuniorsenai@gmail.com
