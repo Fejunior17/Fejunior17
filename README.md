@@ -11,13 +11,11 @@
 
 ## 🔗 Sobre mim 💊💻
 
-Sou farmacêutico e estou construindo minha transição para a área de Tecnologia.
-
+Sou farmacêutico e estou construindo uma interseção entre as áreas da Saúde e da Tecnologia.
 Atualmente, sou Desenvolvedor de Sistemas em formação e pós-graduando em Engenharia Clínica, buscando unir minha experiência na área da Saúde aos conhecimentos de programação e desenvolvimento de software.
+Tenho estudado Python, HTML, CSS, Git, GitHub, VS Code e Lógica de Programação, com o objetivo de desenvolver soluções que conectem Saúde, Tecnologia e Software.
 
-Tenho estudado Python, HTML, CSS, Git, GitHub, VS Code e Lógica de Programação, com o objetivo de desenvolver soluções entre Saúde, Tecnologia e Software.
-
-Estou em constante aprendizado, inciciando a construção de projetos e me preparando para atuar profissionalmente na área de tecnologia. 🚀 
+Estou em constante aprendizado, iniciando a construção de projetos e me preparando para atuar profissionalmente na área de tecnologia. 🚀
 
 ## 🔗 Me encontre por aqui
 
