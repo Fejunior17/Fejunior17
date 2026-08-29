@@ -10,4 +10,5 @@
 
 🚀 Em constante aprendizado e preparação para atuar no mercado de tecnologia.
 
-📬 E-mail: dr.fernando17@hotmail.com
+📬 E-mails: fejuniorsenai@gmail.com 
+            dr.fernando17@hotmail.com
