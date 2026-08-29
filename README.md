@@ -17,7 +17,7 @@ Atualmente, sou Desenvolvedor de Sistemas em formação e pós-graduando em Enge
 
 Tenho estudado Python, HTML, CSS, Git, GitHub, VS Code e Lógica de Programação, com o objetivo de desenvolver soluções entre Saúde, Tecnologia e Software.
 
-🚀 Estou em constante aprendizado, inciciando a construção de projetos e me preparando para atuar profissionalmente na área de tecnologia.
+Estou em constante aprendizado, inciciando a construção de projetos e me preparando para atuar profissionalmente na área de tecnologia. 🚀 
 
 ## 🔗 Me encontre por aqui
 
