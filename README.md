@@ -8,7 +8,6 @@
 
 🔬 Tenho interesse na integração entre Saúde, Tecnologia e Software, buscando desenvolver soluções que conectem essas áreas.
 
-🚀 Em constante aprendizado e preparação para atuar no mercado de tecnologia.
 
 ## 🔗 Sobre mim 💊💻
 
@@ -16,9 +15,9 @@ Sou farmacêutico e estou construindo minha transição para a área de Tecnolog
 
 Atualmente, sou Desenvolvedor de Sistemas em formação e pós-graduando em Engenharia Clínica, buscando unir minha experiência na área da Saúde aos conhecimentos de programação e desenvolvimento de software.
 
-Tenho estudado Python, HTML, CSS, Git, GitHub, VS Code e Lógica de Programação, com o objetivo de desenvolver soluções que conectem Saúde, Tecnologia e Software.
+Tenho estudado Python, HTML, CSS, Git, GitHub, VS Code e Lógica de Programação, com o objetivo de desenvolver soluções entre Saúde, Tecnologia e Software.
 
-🚀 Estou em constante aprendizado, construindo projetos e me preparando para atuar profissionalmente na área de tecnologia.
+🚀 Estou em constante aprendizado, inciciando a construção de projetos e me preparando para atuar profissionalmente na área de tecnologia.
 
 ## 🔗 Me encontre por aqui
 
