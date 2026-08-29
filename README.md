@@ -19,7 +19,7 @@ Estou em constante aprendizado, iniciando a construção de projetos e me prepar
 
 ## 🔗 Me encontre por aqui
 
-📬 E-mails: fejuniorsenai@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fejunior...@gmail.com)
 
 ## 🔗  Tecnologias que estudo
 
