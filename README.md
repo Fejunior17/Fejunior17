@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Fernando Jr!
 
-<!--
-**Fejunior17/Fejunior17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💊 Farmacêutico e Desenvolvedor de Sistemas em formação.
 
-Here are some ideas to get you started:
+🎓 Pós-graduando em Engenharia Clínica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Estudando Python, HTML, CSS, Lógica de Programação e Desenvolvimento de Sistemas.
+
+🔬 Tenho interesse na integração entre Saúde, Tecnologia e Software, buscando desenvolver soluções que conectem essas áreas.
+
+🚀 Em constante aprendizado e preparação para atuar no mercado de tecnologia.
+
+📬 E-mail: dr.fernando17@hotmail.com
